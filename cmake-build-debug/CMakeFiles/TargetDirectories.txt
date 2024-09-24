@@ -1,0 +1,3 @@
+C:/Users/ozyja/CLionProjects/Test_Cpp20/cmake-build-debug/CMakeFiles/Test_Cpp20.dir
+C:/Users/ozyja/CLionProjects/Test_Cpp20/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ozyja/CLionProjects/Test_Cpp20/cmake-build-debug/CMakeFiles/rebuild_cache.dir
